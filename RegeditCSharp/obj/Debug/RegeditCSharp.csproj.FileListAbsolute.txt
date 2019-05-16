@@ -1,0 +1,10 @@
+c:\users\администратор\documents\visual studio 2012\Projects\RegeditCSharp\RegeditCSharp\bin\Debug\RegeditCSharp.exe.config
+c:\users\администратор\documents\visual studio 2012\Projects\RegeditCSharp\RegeditCSharp\bin\Debug\RegeditCSharp.exe
+c:\users\администратор\documents\visual studio 2012\Projects\RegeditCSharp\RegeditCSharp\bin\Debug\RegeditCSharp.pdb
+c:\users\администратор\documents\visual studio 2012\Projects\RegeditCSharp\RegeditCSharp\obj\Debug\RegeditCSharp.csprojResolveAssemblyReference.cache
+c:\users\администратор\documents\visual studio 2012\Projects\RegeditCSharp\RegeditCSharp\obj\Debug\RegeditCSharp.Form1.resources
+c:\users\администратор\documents\visual studio 2012\Projects\RegeditCSharp\RegeditCSharp\obj\Debug\RegeditCSharp.Properties.Resources.resources
+c:\users\администратор\documents\visual studio 2012\Projects\RegeditCSharp\RegeditCSharp\obj\Debug\RegeditCSharp.csproj.GenerateResource.Cache
+c:\users\администратор\documents\visual studio 2012\Projects\RegeditCSharp\RegeditCSharp\obj\Debug\RegeditCSharp.exe
+c:\users\администратор\documents\visual studio 2012\Projects\RegeditCSharp\RegeditCSharp\obj\Debug\RegeditCSharp.pdb
+C:\Users\Администратор\documents\visual studio 2012\Projects\RegeditCSharp\RegeditCSharp\obj\Debug\RegeditCSharp.Form2.resources
